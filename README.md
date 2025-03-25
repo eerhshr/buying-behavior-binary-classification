@@ -7,7 +7,7 @@
 To use this notebook, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/advertising-linear-regression.git
+git clone https://github.com/your-username/buying-behavior-binary-classification.git
 ```
 
 ### **2. Install Required Libraries**
