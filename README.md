@@ -14,4 +14,4 @@ git clone https://github.com/your-username/buying-behavior-binary-classification
 Install the required libraries 
 
 ### **3. Open the Notebook**
-After setting up the environment, you can open the Jupyter notebook (`advertising_linear_regression.ipynb`) in your browser:
+After setting up the environment, you can open the Jupyter notebook (`advertising_linear_regression.ipynb`) in your browser
